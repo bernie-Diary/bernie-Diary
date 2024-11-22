@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bernie
 - 👀 I’m interested in soft life
-- 🌱 I’m currently learning Frontend Development and Data Science
+- 🌱 I’m currently learning JavaScript and Data Science
 
 
 <!---
